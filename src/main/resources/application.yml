@@ -1,0 +1,13 @@
+kafka:
+  topic:
+    helloworld: helloworld.t
+    json: json.t
+    partitioned: partition.t
+    
+#spring:
+#  kafka:
+#    consumer:
+#      group-id: grp
+#      auto-offset-reset: earliest
+      
+# https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
